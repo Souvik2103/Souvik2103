@@ -39,7 +39,11 @@ I specialize in building data-driven solutions using **Python, Power BI, and SQL
 - **Tech:** Python, Pandas, NumPy, Matplotlib, Yfinance.
 - **Features:** - Custom backtesting simulator to calculate Compounded Returns and Portfolio Drawdown.
     - Dual-axis charts analyzing price action alongside technical indicators.
-
+### 🛒 [Super Market Sales Analysis]
+*Comprehensive retail BI solution for monitoring multi-year sales performance and consumer trends.*
+-**Tech:** Power BI, DAX, Star Schema Data Modeling, Geospatial Mapping.
+-**Key Insight:** Identified a significant Q4 revenue surge, with Cash on Delivery (COD) emerging as the dominant payment mode at 43% of total transactions.
+-**Features:** Developed interactive regional slicers and YoY line charts to track growth metrics across three product categories and four shipping modes.
 ---
 
 ## 💼 Experience
