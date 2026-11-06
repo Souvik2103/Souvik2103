@@ -22,25 +22,25 @@ I specialize in building data-driven solutions using **Python, Power BI, and SQL
 
 ## 🚀 Featured Projects
 
-### 📊 [Zomato Restaurants Analysis](https://github.com/Souvik2103/Souvik21)
+### 📊 [Zomato Restaurants Analysis](https://github.com/Souvik2103/Zomato-Restaurants-Analysis)
 *An interactive Power BI dashboard analyzing 163K+ customer votes across 1,080 restaurants.*
 - **Tech:** Power BI, Power Query, DAX.
 - **Key Insight:** Identified a **76% gap** in online delivery availability and an **87% gap** in table booking services.
 - **Features:** Modeled complex global datasets and engineered dual-axis charts to correlate cuisine variety with ratings.
 
-### 📈 [Crypto Trends Analysis](https://github.com/Souvik2103/Souvik21)
+### 📈 [Crypto Trends Analysis](https://github.com/Souvik2103/Crypto-Trends-Analysis)
 *End-to-end BI solution for tracking Bitcoin, Ethereum, and altcoins.*
 - **Tech:** Python, Power BI, Star Schema Data Modeling.
 - **Key Insight:** Uncovered strong correlations between volume spikes and price corrections during the 2021 market peak.
 - **Features:** Optimized performance for millions of data points enabling historical analysis of market cycles.
 
-### 💹 [Technical Indicators & Algo Trading](https://github.com/Souvik2103/Souvik21)
+### 💹 [Technical Indicators & Algo Trading](https://github.com/Souvik2103/Technical-Indicators-)
 *Hybrid trading algorithm combining EMA and RSI for automated signal generation.*
 - **Tech:** Python, Pandas, NumPy, Matplotlib, Yfinance.
 - **Features:** - Custom backtesting simulator to calculate Compounded Returns and Portfolio Drawdown.
     - Dual-axis charts analyzing price action alongside technical indicators.
       
-⛏️ Mineral Distribution & Resource Analysis Dashboard
+###⛏️ [Mineral Distribution & Resource Analysis Dashboard](https://github.com/Souvik2103/Mineral-Distribution-India-Dashboard)
 *A comprehensive Power BI Dashboard designed to visualize and analyze the distribution of mineral resources across India.*   
 - **Tech:** Microsoft Power BI, Power Query, DAX.   
 - **Key Insight:** Identified Odisha (92K) and Jharkhand (89K) as the states with the highest volume of total resources, while Rajasthan (25) leads in overall mineral variety.   
