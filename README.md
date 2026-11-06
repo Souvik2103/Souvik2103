@@ -39,7 +39,14 @@ I specialize in building data-driven solutions using **Python, Power BI, and SQL
 - **Tech:** Python, Pandas, NumPy, Matplotlib, Yfinance.
 - **Features:** - Custom backtesting simulator to calculate Compounded Returns and Portfolio Drawdown.
     - Dual-axis charts analyzing price action alongside technical indicators.
----
+      
+⛏️ Mineral Distribution & Resource Analysis Dashboard
+*A comprehensive Power BI Dashboard designed to visualize and analyze the distribution of mineral resources across India.*   
+- **Tech:** Microsoft Power BI, Power Query, DAX.   
+- **Key Insight:** Identified Odisha (92K) and Jharkhand (89K) as the states with the highest volume of total resources, while Rajasthan (25) leads in overall mineral variety.   
+- **Features:**
+  - Geospatial visualization plotting mineral deposits across the Indian subcontinent.   
+  - Corporate analysis diving into company-wise reserves for major industry players like UltraTech Cement and Hindustan Zinc Ltd.
 
 ## 💼 Experience
 
